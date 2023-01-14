@@ -1,0 +1,76 @@
+{
+  "register": [
+    {
+      "firstName": "Prakash",
+      "lastName": "Kabadi",
+      "email": "prakashkabadi939@gmail.com",
+      "phone": "07620665243",
+      "password": "kiuytrd",
+      "id": 3
+    },
+    {
+      "firstName": "Prakash",
+      "lastName": "Kabadi",
+      "email": "prakashkabadi939@gmail.com",
+      "phone": "07620665243",
+      "password": "lihgf",
+      "id": 4
+    },
+    {
+      "firstName": "Prakash",
+      "lastName": "Kabadi",
+      "email": "prakashkabadi939@gmail.com",
+      "phone": "07620665243",
+      "password": "loiuytr",
+      "id": 5
+    },
+    {
+      "firstName": "pratik",
+      "lastName": "naikwadi",
+      "email": "user@test.com",
+      "phone": "9876543212",
+      "password": "pratik",
+      "id": 6
+    },
+    {
+      "firstName": "Prakash",
+      "lastName": "Kabadi",
+      "email": "prakashkabadi939@gmail.com",
+      "phone": "07620665243",
+      "password": "trewsdfg",
+      "id": 7
+    },
+    {
+      "firstName": "pratik",
+      "lastName": "naikwadi",
+      "email": "tester@admin.com",
+      "phone": "9887654345",
+      "password": "admin",
+      "id": 8
+    },
+    {
+      "firstName": "user",
+      "lastName": "admin",
+      "email": "user@test.com",
+      "phone": "9657556565",
+      "password": "pratik",
+      "id": 9
+    },
+    {
+      "firstName": "Prakash",
+      "lastName": "Kabadi",
+      "email": "kabadiprakash@outlook.com",
+      "phone": "+917620665243",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "firstName": "user",
+      "lastName": "king",
+      "email": "use123@gmail.com",
+      "phone": "+917620665243",
+      "password": "1234",
+      "id": 11
+    }
+  ]
+}
